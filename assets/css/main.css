@@ -7,13 +7,20 @@
 body {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
+    background-color: #fff;
     color: #333;
 }
 
 #main {
-    width: 100%;
     padding: 15px;
     background-color: #eee;
+}
+
+@media (min-width: 460px) {
+  #main {
+     margin: 32px 10px;
+     border-radius: 5px;
+  }
 }
 
 #title, p {
@@ -51,7 +58,7 @@ p {
 }
 
 #tribute-info h4 {
-   padding: 32px;
+   padding: 32px 0;
    font-size: 16px;
    font-weight: bold;
 }
@@ -65,12 +72,20 @@ ul {
     color: #666;
 }
 
+@media (min-width: 460px) {
+  #tribute-info {
+   max-width: 550px;
+   margin: 0 auto 50px auto;  
+ }
+}
+
 ul li {
     margin: 16px 0;
 }
 
 blockquote {
     padding: 10px;
+    font-size: 16px;
     line-height: 1.7;
     font-style: italic;
 }
@@ -87,9 +102,6 @@ h3 {
 
 a {
     color: #477ca7;
-}
-@media (min-width: 460px) {
-
 }
 
 
