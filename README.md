@@ -1,7 +1,7 @@
-# Building with Responsive Design -- Free Code camp Tribute Page
+# Building with Responsive Design -- Free Code camp Tribute Page []
 
 > This project, consists of building a responsive website. By be following the free code camp user stories.
-
+[Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Open Live Demo](https://rawcdn.githack.com/keddo/thenextweb-clone/cb582e4787a0fb76aeebfd3a564ebf607ffb51ee/index.html)
+[Open Live Demo](https://rawcdn.githack.com/keddo/FCCTributePage/8b99c7f0879bc7c843c71e380bbc8da4e5ea1308/index.html)
 
 
 ## Getting Started
